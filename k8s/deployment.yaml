@@ -4,7 +4,7 @@ metadata:
   name: mayouebeauty509-app
   namespace: mayouebeauty509
 spec:
-  replicas: 3
+  replicas: 0
   selector:
     matchLabels:
       app: mayouebeauty509-app
