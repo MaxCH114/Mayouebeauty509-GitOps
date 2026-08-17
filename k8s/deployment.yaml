@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: pmchamblain/mayouebeauty509-app:v3
+          image: pmchamblain/mayouebeauty509-app:a02e01239c9b7caa957afdd5283b9d0eaa18fb7f
           imagePullPolicy: Always
 
           ports:
